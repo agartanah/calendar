@@ -96,7 +96,6 @@ int floorMod(int divisor1, int divisor2) { // функция вычислени�
 }
 
 int main() {
-  
   int year, dayOfWeekOfFirstDayOfMonth, dayOfMonth, monthNumber,
   yearOfCentury, centuryCount;
   
